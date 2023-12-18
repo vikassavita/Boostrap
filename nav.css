@@ -1,0 +1,21 @@
+.imglogo{
+    width: 65px;
+}
+.navbar{
+    background-color: #00000082!important;
+
+}
+.navbar-nav li a {
+    color: #fff !important;
+    font-weight: 600px;
+    font-size: 15px;
+   
+
+}
+
+.navbar-nav li{
+    padding: 0 15px;
+}
+.navbar-nav li{
+    padding: 0 10px;
+}

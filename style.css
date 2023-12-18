@@ -1,0 +1,41 @@
+.img{
+    height: 300px;
+}
+.heading{
+    font-size: 1.25rem !important;
+    font-weight: 300 !important;
+     color: #716f85;;
+}
+.rowcolor{
+background-color: #f6f6f6;
+}
+.cardpic1{
+    
+    width: 140px;
+    height: 118px;
+    display: inline-block;
+    text-align: center;
+    line-height: 108px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    background-color:  #fff;
+    margin: auto;
+    
+ 
+    
+}
+
+.cardbodyh{
+    font-size: 1.5rem;
+}
+.bodypara{
+    font-size: 14px;
+    color: #716f85;
+    line-height: 26px;
+    font-weight: 400;
+}
+.card{
+    box-shadow: 0px 0px 25px rgba(0, 0, 0, 0.1);
+    
+
+}

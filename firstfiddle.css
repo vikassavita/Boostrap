@@ -1,0 +1,353 @@
+.a{
+padding-top: 20px;
+text-transform: uppercase;
+font-family: 'prague';
+letter-spacing: 3px;
+}
+.img123{
+    width: 90%;
+
+}
+.b{
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify;
+}
+
+.c{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.652),rgba(0, 0, 0, 0.663)), url(img/first.jpg) ;
+    
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ex{
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+.our{
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+    color: #ffc107    ;
+}
+.experience{
+    background-image: url(img/ffback2.png);
+}
+.experience{
+    line-height: 40px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    margin-top: 10px;
+    text-align: center;
+}
+.btn{
+    font-size: 18px;
+}
+
+.footer{
+    background-color: #111215;
+}
+.footerlogo{
+    
+    width: 80%;
+    
+
+}
+.lastfooter{
+    background-color: black;
+    color: white;
+}
+.cont{
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+
+}
+.contpara{
+    line-height: 30px;
+    word-spacing: 1px;
+    font-size: 16px;
+    color: aliceblue;
+    margin-right: 40px;
+
+}
+.icon{
+color: orange;
+font-size: 35px;
+}
+
+
+
+
+.weblogo{
+    width: 65px;
+
+}
+.navbar{
+    background-color: #00000082!important;
+}
+.navbar-nav li{
+    padding: 0 10px;
+}
+.navbar-nav li a {
+    color: #fff !important;
+    font-weight: 600px;
+    font-size: 14px;
+
+}
+.navbar-nav li :hover{
+    background-color: orange;
+}
+.mobologo{
+    display: none;
+    width: 65px;
+}
+
+
+/* end home page */
+
+
+
+.ourimg{
+    background-image: url(img/ourimage.jpg);
+    width: 100%;
+background-size: cover;
+}
+.slidh1{
+    font-size: 50px;
+    font-family: prague;
+}
+.Ah2{
+    text-align: center;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+.Apara{
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify;
+}
+.game{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.541),rgba(0, 0, 0, 0.324)), url(img/ourimage.jpg);
+    background-size: cover;
+}    
+.gameh1{
+    color: white;
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-top: 2cm;
+}
+.gamep{
+    color: white;
+    line-height: 40px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    margin-top: 10px;
+    text-align: center;
+    font-weight: lighter;
+    padding-bottom: 2cm;
+    font-weight: 400;
+
+}
+.manbehind{
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+
+}
+.manp
+{
+    line-height: 40px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    margin-top: 20px;
+    font-weight: lighter;
+    padding-bottom: 2cm;
+
+}
+
+.JOIN{
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify;
+    
+}
+.joinimg{
+    width: 90%;
+}
+
+/* aboutpageend */
+
+
+
+
+
+.brandimg{
+    background-image: url(img/brands.jpg);
+    width: 100%;
+background-size: cover;
+
+}
+
+
+
+/* ourteam */
+
+.ourteam{
+    background-image: url(img/new-our-team.jpg);
+    width: 100%;
+background-size: cover;
+}
+.priyancep{
+    line-height: 35px;
+    word-spacing: 1px;
+    letter-spacing: 1px;
+    text-align: justify;
+    padding-right: 25px;
+}
+
+.photo1{
+    background-image: url(img/t2.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+.photo2{
+    background-image: url(img/t3.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+.photo3{
+    background-image: url(img/t4.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+.photo4{
+    background-image: url(img/t5.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+.photo5{
+    background-image: url(img/t6.jpg);
+    width: 100%;
+    height: 8.8cm;
+    background-position: center;
+    background-size: cover;
+}
+/* 
+press release */
+
+.press{
+    background-image: url(img/press-new-1.jpg);
+    width: 100%;
+background-size: cover;
+}
+
+/* press release */
+
+
+.carrer{
+    background-image: url(img/new-careers-1.jpg);
+    width: 100%;
+background-size: cover;
+
+}
+.carrerh1{
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 2px;
+    font-size: 1.2cm;
+}
+.carrerp{
+    font-size: 18px !important;
+    font-weight: lighter;
+    letter-spacing: 2px;
+    font-size: 1.2cm;
+    
+}
+
+
+/* contact */
+
+.Contact{
+    background-image: url(img/CONTACT-US.jpg);
+    width: 100%;
+background-size: cover;  
+}
+
+
+
+.form-control {
+    display: block;
+    width: 100%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:768px){
+    .img{
+        width: 100%;
+        margin-top: 20px;
+    }
+    .weblogo{
+        display: none;
+    
+    }
+    .mobologo{
+        display: block;
+    }
+    .navbar{
+        background-color: #fbaa19 !important;
+    }
+
+}
